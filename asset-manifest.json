@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GroceryReceiptCalculator/static/css/main.e6c13ad2.css",
+    "main.js": "/GroceryReceiptCalculator/static/js/main.8d8d288b.js",
+    "static/js/787.a5bde7df.chunk.js": "/GroceryReceiptCalculator/static/js/787.a5bde7df.chunk.js",
+    "index.html": "/GroceryReceiptCalculator/index.html",
+    "main.e6c13ad2.css.map": "/GroceryReceiptCalculator/static/css/main.e6c13ad2.css.map",
+    "main.8d8d288b.js.map": "/GroceryReceiptCalculator/static/js/main.8d8d288b.js.map",
+    "787.a5bde7df.chunk.js.map": "/GroceryReceiptCalculator/static/js/787.a5bde7df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8d8d288b.js"
+  ]
+}

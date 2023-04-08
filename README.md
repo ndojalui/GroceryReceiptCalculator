@@ -27,4 +27,4 @@ Grocery Receipt Calculator is a React application designed to help roommates eas
 
 ## GPT-4 Assistance
 
-This application was developed mainly as a way for me to experiment with the capabilities of chatGPT4 in web development. I have a background in python, java, and other programming languages, but am inexperienced in web development using frameworks such as React. GPT4 allowed me to quickly develop this website with little knowledge, making use of converting pseudocode and in some cases code written in python, into the code written in the appropriate languages for this application.
+This application was developed mainly as a way for me to experiment with the capabilities of chatGPT4 in web development. I have a background in python, java, and other programming languages, but am inexperienced in web development using frameworks such as React. GPT4 allowed me to quickly develop this website with little knowledge, making use of converting pseudocode and in some cases code written in python, into the code written in the appropriate languages for this application. Even the majority of this README was written using chat GPT!

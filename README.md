@@ -1,6 +1,6 @@
-# Roomie Grocery Bill Calculator
+# Grocery Receipt Calculator
 
-Roomie Grocery Bill Calculator is a React application designed to help roommates easily and fairly split the cost of groceries. It takes into account the total grocery bill amount, the list of purchased items, and individual claims or removals of items by each roommate. This intuitive app helps maintain harmony and transparency when it comes to shared expenses.
+Grocery Receipt Calculator is a React application designed to help roommates easily and fairly split the cost of groceries. It takes into account the total grocery bill amount, the list of purchased items, and individual claims or removals of items by each roommate. This intuitive app helps maintain harmony and transparency when it comes to shared expenses.
 
 ## Table of Contents
 
